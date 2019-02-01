@@ -10,3 +10,6 @@
 
 #### Carys Jones - Performance Analyst - Newport
 #### - Trying to learn code
+
+#### Elliot Jennings - Performance Analayst - Cardiff
+#### - Just loves to code
