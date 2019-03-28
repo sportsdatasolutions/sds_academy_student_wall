@@ -3,7 +3,7 @@
 #### Yoda - Jedi Order - Yoda's Hut
 ##### - "Do or do not. There is no try.""
 
-#### Dan St Paul - SDS Academy Guru - London/HK
+#### Dan St Paul - SDS Academy Mentor - London/HK
 ##### - Sport x Code = :boom:
 
 #### Carys Jones - Performance Analyst - Newport
