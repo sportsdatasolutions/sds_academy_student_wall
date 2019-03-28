@@ -9,8 +9,8 @@
 #### Carys Jones - Performance Analyst - Newport
 ##### - Trying to learn code
 
-#### Elliot Jennings - Performance Analayst - Cardiff
+#### Elliot Jennings - Performance Analyst - Cardiff
 ##### - Just loves to code
 
-#### Shaquille Payne - Performance Analayst - Reading
+#### Shaquille Payne - Performance Analyst - Reading
 ##### - Bossman
