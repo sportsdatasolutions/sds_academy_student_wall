@@ -7,10 +7,10 @@
 ##### - Sport x Code = :boom:
 
 #### Carys Jones - Performance Analyst - Newport
-#### - Trying to learn code
+##### - Trying to learn code
 
 #### Elliot Jennings - Performance Analayst - Cardiff
-#### - Just loves to code
+##### - Just loves to code
 
 #### Shaquille Payne - Performance Analayst - Reading
-#### - Bossman
+##### - Bossman
