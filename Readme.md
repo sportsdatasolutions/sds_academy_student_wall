@@ -1,7 +1,5 @@
 # The Student Wall
 
-#### Shaquille Payne - PA intern - Reading - Bossman
-
 #### Yoda - Jedi Order - Yoda's Hut
 ##### - "Do or do not. There is no try.""
 
@@ -13,3 +11,6 @@
 
 #### Elliot Jennings - Performance Analayst - Cardiff
 #### - Just loves to code
+
+#### Shaquille Payne - Performance Analayst - Reading
+#### - Bossman
