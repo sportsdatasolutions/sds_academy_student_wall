@@ -17,3 +17,6 @@
 
 #### Cat Shin - Biomechanist - London
 ##### - I hope curiosity doesn't kill me.
+
+#### Garry Owen - Performance Analyst - Manchester
+##### - New to coding
