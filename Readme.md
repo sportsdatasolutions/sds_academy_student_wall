@@ -14,3 +14,6 @@
 
 #### Shaquille Payne - Performance Analyst - Reading
 ##### - Bossman
+
+#### Garry Owen - Performance Analyst - Manchester
+##### - New to coding
