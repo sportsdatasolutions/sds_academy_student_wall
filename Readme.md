@@ -23,3 +23,6 @@
 
 #### Amber Luzar - Performance Analyst - Bisham
 ##### - slow and steady wins the race :snail:
+
+#### Alex Anastasiou - Physiologist - Weymouth
+##### - 60% of the time, it works every time
