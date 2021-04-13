@@ -26,3 +26,6 @@
 
 #### Alex Anastasiou - Physiologist - Weymouth
 ##### - 60% of the time, it works every time
+
+#### Emma Bird - Performance Analyst - Bisham
+##### Scratching the surface of code :sunglasses:
