@@ -1,7 +1,7 @@
 # The Student Wall
 
 #### Yoda - Jedi Order - Yoda's Hut
-##### - "Do or do not. There is no try.""
+##### - "Do or do not. There is no try."
 
 #### Dan St Paul - SDS Academy Mentor - London/HK
 ##### - Sport x Code = :boom:
@@ -29,3 +29,6 @@
 
 #### Emma Bird - Performance Analyst - Bisham
 ##### Scratching the surface of code :sunglasses:
+
+#### Sophie Ball - Performance Analyst - Manchester
+#### Just keep trying and hope it fixes itself
