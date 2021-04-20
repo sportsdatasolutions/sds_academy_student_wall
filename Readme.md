@@ -1,7 +1,7 @@
 # The Student Wall
 
 #### Yoda - Jedi Order - Yoda's Hut
-##### - "Do or do not. There is no try."
+##### - Do or do not. There is no try.
 
 #### Dan St Paul - SDS Academy Mentor - London/HK
 ##### - Sport x Code = :boom:
@@ -28,10 +28,10 @@
 ##### - 60% of the time, it works every time
 
 #### Emma Bird - Performance Analyst - Bisham
-##### Scratching the surface of code :sunglasses:
+##### - Scratching the surface of code :sunglasses:
 
 #### Sophie Ball - Performance Analyst - Manchester
-#### Just keep trying and hope it fixes itself
+##### - Just keep trying and hope it fixes itself
 
 #### Jack Fairweather - Computer Science Consultant - Bisham
-##### Ask not what coding will do with you, but what you can do with coding
+##### - Ask not what coding will do with you, but what you can do with coding
