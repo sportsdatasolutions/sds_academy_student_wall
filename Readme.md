@@ -32,3 +32,6 @@
 
 #### Sophie Ball - Performance Analyst - Manchester
 #### Just keep trying and hope it fixes itself
+
+#### Jack Fairweather - Computer Science Consultant - Bisham
+##### Ask not what coding will do with you, but what you can do with coding
