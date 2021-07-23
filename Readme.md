@@ -35,3 +35,6 @@
 
 #### Jack Fairweather - Computer Science Consultant - Bisham
 ##### - Ask not what coding will do with you, but what you can do with coding
+
+#### Dan Cunningham - Research Assistant - Swansea
+##### - Old dog learning new tricks (hopefully!)
