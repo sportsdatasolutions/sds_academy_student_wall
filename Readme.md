@@ -38,3 +38,6 @@
 
 #### Dan Cunningham - Research Assistant - Swansea
 ##### - Old dog learning new tricks (hopefully!)
+
+#### Emma Mosscrop - Biomechanist and Performance Analyst - Loughborough
+##### - Just keep going 
