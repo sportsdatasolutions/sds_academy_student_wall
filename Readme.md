@@ -38,3 +38,6 @@
 
 #### Dan Cunningham - Research Assistant - Swansea
 ##### - Old dog learning new tricks (hopefully!)
+
+### Tom Shaw - Analyst - Sheffield
+#### - Finding the bitcoin at the end of the rainbow
