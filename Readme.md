@@ -38,3 +38,6 @@
 
 #### Dan Cunningham - Research Assistant - Swansea
 ##### - Old dog learning new tricks (hopefully!)
+
+#### Olly Logan - Biomechanics/Analysis/Innovation - Everywhere in UK
+##### - Plan - Code - Achieve
