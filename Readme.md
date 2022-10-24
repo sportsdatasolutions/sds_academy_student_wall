@@ -38,3 +38,6 @@
 
 #### Dan Cunningham - Research Assistant - Swansea
 ##### - Old dog learning new tricks (hopefully!)
+
+#### James Knights - Performance Data Lead - Loughbrough
+##### Beginners luck attempt 2.
