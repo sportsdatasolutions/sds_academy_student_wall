@@ -12,6 +12,9 @@
 #### Elliot Jennings - Performance Analyst - Cardiff
 ##### - Just loves to code
 
+#### Michael Knott - S&C Coach - Bisham
+##### - Let's see where this takes me :rocket:
+
 #### Shaquille Payne - Performance Analyst - Reading
 ##### - Bossman
 
