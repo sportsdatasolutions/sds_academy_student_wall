@@ -38,3 +38,6 @@
 
 #### Dan Cunningham - Research Assistant - Swansea
 ##### - Old dog learning new tricks (hopefully!)
+
+#### Dan Williams - Biomechanics PhD Student - Manchester
+##### - Coding noob 
