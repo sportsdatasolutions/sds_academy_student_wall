@@ -38,3 +38,6 @@
 
 #### Dan Cunningham - Research Assistant - Swansea
 ##### - Old dog learning new tricks (hopefully!)
+
+#### Adrian Campbell - Performance Scientist - Stirling
+##### - What doesn't kill you and all that
